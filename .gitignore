@@ -1,0 +1,11 @@
+.DS_Store
+*.aux
+manuscript/build/
+data/inputs/*
+data/outputs/*
+!data/inputs/README.md
+!data/outputs/README.md
+!data/inputs/umbilical_cord_loinc.csv
+!data/inputs/Loinc_2.76_Export_20231116174148_Meconium.csv
+!data/inputs/2019_cntyest.xlsx
+manuscript_for_journal.zip

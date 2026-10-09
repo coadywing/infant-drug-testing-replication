@@ -1,0 +1,50 @@
+Component Test Code,Component Chart Name,LOINC
+2006622,"Drug Detection Panel, Umbilical Cord",62364-5
+2006626,"Buprenorphine, Cord, Qual",82373-2
+2006628,"Codeine, Cord, Qual",40626-4
+2006629,"Dihydrocodeine, Cord, Qual",97242-2
+2006630,"Fentanyl, Cord, Qual",61042-8
+2006631,"Hydrocodone, Cord, Qual",32080-4
+2006632,"Hydromorphone, Cord, Qual",32081-2
+2006633,"Meperidine, Cord, Qual",32088-7
+2006634,"Methadone, Cord, Qual",32093-7
+2006635,"Methadone Metabolite, Cord, Qual",41859-0
+2006636,"6-Acetylmorphine, Cord, Qual",32099-4
+2006637,"Morphine, Cord, Qual",32100-0
+2006638,"Naloxone, Cord, Qual",100357-3
+2006640,"Oxycodone, Cord, Qual",32101-8
+2006641,"Oxymorphone, Cord, Qual",91053-9
+2006642,"Propoxyphene, Cord, Qual",43811-9
+2006644,"Tapentadol, Cord, Qual",59355-8
+2006645,"Tramadol, Cord, Qual",97306-5
+2006646,"N-desmethyltramadol, Cord, Qual",97306-5
+2006647,"O-desmethyltramadol, Cord, Qual",97292-7
+2006648,"Amphetamine, Cord, Qual",29530-3
+2006649,"Benzoylecgonine, Cord, Qual",40609-0
+2006650,"m-OH-Benzoylecgonine, Cord, Qual",43230-2
+2006652,"Cocaethylene, Cord, Qual",48946-8
+2006653,"Cocaine, Cord, Qual",40625-6
+2006654,"MDMA- Ecstasy, Cord, Qual",40481-4
+2006657,"Methamphetamine, Cord, Qual",40381-6
+2006658,"Phentermine, Cord, Qual",100358-1
+2006659,"Alprazolam, Cord, Qual",61038-6
+2006660,"Alpha-OH-Alprazolam, Cord, Qual",61037-8
+2006662,"Butalbital, Cord, Qual",32057-2
+2006663,"Clonazepam, Cord, Qual",61039-4
+2006664,"7-Aminoclonazepam, Cord, Qual",61031-1
+2006665,"Diazepam, Cord, Qual",61074-1
+2006671,"Lorazepam, Cord, Qual",61044-4
+2006672,"Midazolam, Cord, Qual",59712-0
+2006673,"Alpha-OH-Midazolam, Cord, Qual",97278-6
+2006675,"Nordiazepam, Cord, Qual",61051-9
+2006676,"Oxazepam, Cord, Qual",61055-0
+2006677,"Phenobarbital, Cord, Qual",32108-3
+2006679,"Temazepam, Cord, Qual",61061-8
+2006682,"Zolpidem, Cord, Qual",97310-7
+2006683,"Phencyclidine- PCP, Cord, Qual",32107-5
+2009199,"EER Drug Detection Pan, Umbilical Cord",11526-1
+2013103,"Norbuprenorphine, Cord, Qual",82375-7
+2013104,"Norhydrocodone, Cord, Qual",97286-9
+2013105,"Noroxycodone, Cord, Qual",97290-1
+2013106,"Noroxymorphone, Cord, Qual",97296-8
+3001452,"Gabapentin, Cord, Qual",93121-2

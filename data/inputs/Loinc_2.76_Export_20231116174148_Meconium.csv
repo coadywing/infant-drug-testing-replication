@@ -1,0 +1,183 @@
+LOINC_NUM,COMPONENT,PROPERTY,TIME_ASPCT,SYSTEM,SCALE_TYP,METHOD_TYP,CLASS,VersionLastChanged,STATUS,CLASSTYPE,ORDER_OBS,EXTERNAL_COPYRIGHT_NOTICE,EXAMPLE_UNITS,LONG_COMMON_NAME,EXAMPLE_UCUM_UNITS,VersionFirstReleased,LHCForms,FormalName
+19125-4,Meconium,PrThr,Pt,Amnio fld,Ord,,CHEM,2.73,ACTIVE,1,Observation,,,Meconium [Presence] in Amniotic fluid,,1.0l,FALSE,Meconium:PrThr:Pt:Amnio fld:Ord:
+73728-8,Norcocaine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Norcocaine [Presence] in Meconium,,2.44,FALSE,Norcocaine:PrThr:Pt:Meconium:Ord:
+26911-8,ALPRAZolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,ALPRAZolam [Mass/mass] in Meconium,ng/g,2,FALSE,ALPRAZolam:MCnt:Pt:Meconium:Qn:
+15403-9,Isopropanol,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Isopropanol [Presence] in Meconium,,1.0k,FALSE,Isopropanol:PrThr:Pt:Meconium:Ord:
+26914-2,Estazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Estazolam [Mass/mass] in Meconium,ng/g,2,FALSE,Estazolam:MCnt:Pt:Meconium:Qn:
+15402-1,Ethanol,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Ethanol [Presence] in Meconium,,1.0k,FALSE,Ethanol:PrThr:Pt:Meconium:Ord:
+26979-5,Flurazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Flurazepam [Mass/mass] in Meconium,ng/g,2,FALSE,Flurazepam:MCnt:Pt:Meconium:Qn:
+26815-1,Cocaethylene,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Cocaethylene [Mass/mass] in Meconium,ng/g,2,FALSE,Cocaethylene:MCnt:Pt:Meconium:Qn:
+57945-8,Cocaethylene,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Cocaethylene [Presence] in Meconium,,2.29,FALSE,Cocaethylene:PrThr:Pt:Meconium:Ord:
+40418-6,Cotinine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Cotinine [Presence] in Meconium,,2.15,FALSE,Cotinine:PrThr:Pt:Meconium:Ord:
+26938-1,chlordiazePOXIDE,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,chlordiazePOXIDE [Mass/mass] in Meconium,ng/g,2,FALSE,chlordiazePOXIDE:MCnt:Pt:Meconium:Qn:
+11023-9,Benzodiazepines,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Benzodiazepines [Mass/volume] in Meconium,ng/mL,1.0j-a,FALSE,Benzodiazepines:MCnc:Pt:Meconium:Qn:
+29160-9,Benzodiazepines,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Benzodiazepines [Mass/mass] in Meconium,ng/g,2.03,FALSE,Benzodiazepines:MCnt:Pt:Meconium:Qn:
+40414-5,Benzodiazepines,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Benzodiazepines [Presence] in Meconium,,2.15,FALSE,Benzodiazepines:PrThr:Pt:Meconium:Ord:
+27003-3,Mephobarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Mephobarbital [Mass/mass] in Meconium,ug/g,2,FALSE,Mephobarbital:MCnt:Pt:Meconium:Qn:
+15407-0,Methanol,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Methanol [Presence] in Meconium,,1.0k,FALSE,Methanol:PrThr:Pt:Meconium:Ord:
+27302-9,Midazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Midazolam [Mass/mass] in Meconium,ng/g,2,FALSE,Midazolam:MCnt:Pt:Meconium:Qn:
+27029-8,Norpropoxyphene,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Norpropoxyphene [Mass/mass] in Meconium,ug/g,2,FALSE,Norpropoxyphene:MCnt:Pt:Meconium:Qn:
+26937-3,Temazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Temazepam [Mass/mass] in Meconium,ng/g,2,FALSE,Temazepam:MCnt:Pt:Meconium:Qn:
+26913-4,Triazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Triazolam [Mass/mass] in Meconium,ng/g,2,FALSE,Triazolam:MCnt:Pt:Meconium:Qn:
+27324-3,Amobarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Amobarbital [Mass/mass] in Meconium,ug/g,2,FALSE,Amobarbital:MCnt:Pt:Meconium:Qn:
+43933-1,Cathine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,mg/g,Cathine [Mass/mass] in Meconium,mg/g,2.17,FALSE,Cathine:MCnt:Pt:Meconium:Qn:
+26934-0,LORazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,LORazepam [Mass/mass] in Meconium,ng/g,2,FALSE,LORazepam:MCnt:Pt:Meconium:Qn:
+26727-8,Ephedrine+Pseudoephedrine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,ePHEDrine+Pseudoephedrine [Mass/mass] in Meconium,ng/g,2,FALSE,Ephedrine+Pseudoephedrine:MCnt:Pt:Meconium:Qn:
+59630-4,cloBAZam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,cloBAZam [Mass/mass] in Meconium,ng/g,2.32,FALSE,cloBAZam:MCnt:Pt:Meconium:Qn:
+29161-7,Barbiturates,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Barbiturates [Mass/mass] in Meconium,ng/g,2.03,FALSE,Barbiturates:MCnt:Pt:Meconium:Qn:
+40412-9,Barbiturates,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Barbiturates [Presence] in Meconium,,2.15,FALSE,Barbiturates:PrThr:Pt:Meconium:Ord:
+26716-1,Chlorphentermine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Chlorphentermine [Mass/mass] in Meconium,ng/g,2,FALSE,Chlorphentermine:MCnt:Pt:Meconium:Qn:
+27004-1,Benzfetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Benzfetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Benzfetamine:MCnt:Pt:Meconium:Qn:
+26935-7,diazePAM,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,diazePAM [Mass/mass] in Meconium,ng/g,2,FALSE,diazePAM:MCnt:Pt:Meconium:Qn:
+27035-5,Dihydrocodeine+Hydrocodeinone,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Dihydrocodeine+Hydrocodeinone [Mass/mass] in Meconium,ng/g,2,FALSE,Dihydrocodeine+Hydrocodeinone:MCnt:Pt:Meconium:Qn:
+26863-1,HYDROcodone,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,HYDROcodone [Mass/mass] in Meconium,ng/g,2,FALSE,HYDROcodone:MCnt:Pt:Meconium:Qn:
+57981-3,HYDROcodone,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,HYDROcodone [Presence] in Meconium,,2.29,FALSE,HYDROcodone:PrThr:Pt:Meconium:Ord:
+26862-3,HYDROmorphone,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,HYDROmorphone [Mass/mass] in Meconium,ng/g,2,FALSE,HYDROmorphone:MCnt:Pt:Meconium:Qn:
+57982-1,HYDROmorphone,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,HYDROmorphone [Presence] in Meconium,,2.29,FALSE,HYDROmorphone:PrThr:Pt:Meconium:Ord:
+26936-5,Hydroxyethylflurazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Hydroxyethylflurazepam [Mass/mass] in Meconium,ng/g,2,FALSE,Hydroxyethylflurazepam:MCnt:Pt:Meconium:Qn:
+26857-3,Mephentermine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Mephentermine [Mass/mass] in Meconium,ng/g,2,FALSE,Mephentermine:MCnt:Pt:Meconium:Qn:
+15405-4,Methamphetamine,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.52,DISCOURAGED,1,Both,,ug/mL,Methamphetamine [Mass/volume] in Meconium,ug/mL,1.0k,FALSE,Methamphetamine:MCnc:Pt:Meconium:Qn:
+27289-8,Methamphetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methamphetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Methamphetamine:MCnt:Pt:Meconium:Qn:
+29286-2,Methamphetamine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Methamphetamine [Presence] in Meconium,,2.03,FALSE,Methamphetamine:PrThr:Pt:Meconium:Ord:
+11026-2,Methaqualone,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ug/mL,Methaqualone [Mass/volume] in Meconium,ug/mL,1.0j-a,FALSE,Methaqualone:MCnc:Pt:Meconium:Qn:
+27262-5,Methaqualone,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methaqualone [Mass/mass] in Meconium,ng/g,2,FALSE,Methaqualone:MCnt:Pt:Meconium:Qn:
+27244-3,Methylenedioxyamphetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methylenedioxyamphetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Methylenedioxyamphetamine:MCnt:Pt:Meconium:Qn:
+27080-1,Methylenedioxyethylamphetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methylenedioxyethylamphetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Methylenedioxyethylamphetamine:MCnt:Pt:Meconium:Qn:
+26866-4,N-desalkylflurazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,N-desalkylflurazepam [Mass/mass] in Meconium,ng/g,2,FALSE,N-desalkylflurazepam:MCnt:Pt:Meconium:Qn:
+40385-7,Nicotine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Nicotine [Presence] in Meconium,,2.15,FALSE,Nicotine:PrThr:Pt:Meconium:Ord:
+27308-6,PENTobarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,PENTobarbital [Mass/mass] in Meconium,ug/g,2,FALSE,PENTobarbital:MCnt:Pt:Meconium:Qn:
+8232-1,Phencyclidine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Phencyclidine [Presence] in Meconium,,1.0h(2),FALSE,Phencyclidine:PrThr:Pt:Meconium:Ord:
+26712-0,Phenmetrazine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Phenmetrazine [Mass/mass] in Meconium,ng/g,2,FALSE,Phenmetrazine:MCnt:Pt:Meconium:Qn:
+27235-1,PHENobarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,PHENobarbital [Mass/mass] in Meconium,ug/g,2,FALSE,PHENobarbital:MCnt:Pt:Meconium:Qn:
+26713-8,Phentermine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Phentermine [Mass/mass] in Meconium,ng/g,2,FALSE,Phentermine:MCnt:Pt:Meconium:Qn:
+27002-5,Secobarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Secobarbital [Mass/mass] in Meconium,ug/g,2,FALSE,Secobarbital:MCnt:Pt:Meconium:Qn:
+26893-8,Tetrahydrocannabinol,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Tetrahydrocannabinol [Mass/mass] in Meconium,ng/g,2,FALSE,Tetrahydrocannabinol:MCnt:Pt:Meconium:Qn:
+8167-9,Tetrahydrocannabinol,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Tetrahydrocannabinol [Presence] in Meconium,,1.0h(2),FALSE,Tetrahydrocannabinol:PrThr:Pt:Meconium:Ord:
+59588-4,1-Hydroxymidazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,1-Hydroxymidazolam [Mass/mass] in Meconium,ng/g,2.32,FALSE,1-Hydroxymidazolam:MCnt:Pt:Meconium:Qn:
+26959-7,Amphetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Amphetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Amphetamine:MCnt:Pt:Meconium:Qn:
+8143-0,Amphetamines,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Amphetamines [Mass/volume] in Meconium,ng/mL,1.0h(2),FALSE,Amphetamines:MCnc:Pt:Meconium:Qn:
+26895-3,Amphetamines,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Amphetamines [Mass/mass] in Meconium,ng/g,2,FALSE,Amphetamines:MCnt:Pt:Meconium:Qn:
+8144-8,Amphetamines,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Amphetamines [Presence] in Meconium,,1.0h(2),FALSE,Amphetamines:PrThr:Pt:Meconium:Ord:
+27061-1,Butabarbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Butabarbital [Mass/mass] in Meconium,ug/g,2,FALSE,Butabarbital:MCnt:Pt:Meconium:Qn:
+27962-0,Butalbital,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ug/g,Butalbital [Mass/mass] in Meconium,ug/g,2,FALSE,Butalbital:MCnt:Pt:Meconium:Qn:
+27024-9,Cannabinoids,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Cannabinoids [Mass/mass] in Meconium,ng/g,2,FALSE,Cannabinoids:MCnt:Pt:Meconium:Qn:
+60519-6,Fatty acids.ethyl esters,SCnt,Pt,Meconium,Qn,,CHEM,2.7,ACTIVE,1,Both,,nmol/g,Fatty acids.ethyl esters [Moles/mass] in Meconium,nmol/g,2.36,FALSE,Fatty acids.ethyl esters:SCnt:Pt:Meconium:Qn:
+15364-3,Codeine,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.52,DISCOURAGED,1,Both,,ng/mL,Codeine [Mass/volume] in Meconium,ng/mL,1.0k,FALSE,Codeine:MCnc:Pt:Meconium:Qn:
+26865-6,Codeine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Codeine [Mass/mass] in Meconium,ng/g,2,FALSE,Codeine:MCnt:Pt:Meconium:Qn:
+29278-9,Codeine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Codeine [Presence] in Meconium,,2.03,FALSE,Codeine:PrThr:Pt:Meconium:Ord:
+11022-1,Barbiturates,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Barbiturates [Mass/volume] in Meconium,ng/mL,1.0j-a,FALSE,Barbiturates:MCnc:Pt:Meconium:Qn:
+15370-0,Morphine,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.52,DISCOURAGED,1,Both,,ng/mL,Morphine [Mass/volume] in Meconium,ng/mL,1.0k,FALSE,Morphine:MCnc:Pt:Meconium:Qn:
+26860-7,Morphine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Morphine [Mass/mass] in Meconium,ng/g,2,FALSE,Morphine:MCnt:Pt:Meconium:Qn:
+29287-0,Morphine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Morphine [Presence] in Meconium,,2.03,FALSE,Morphine:PrThr:Pt:Meconium:Ord:
+26933-2,Oxazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Oxazepam [Mass/mass] in Meconium,ng/g,2,FALSE,Oxazepam:MCnt:Pt:Meconium:Qn:
+26869-8,oxyCODONE,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,oxyCODONE [Mass/mass] in Meconium,ng/g,2,FALSE,oxyCODONE:MCnt:Pt:Meconium:Qn:
+27274-0,Benzfetamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,DEPRECATED,1,,,ng/g,Deprecated Benzfetamine [Mass/mass] in Meconium,ng/g,2,FALSE,Benzfetamine:MCnt:Pt:Meconium:Qn:
+31081-3,Benzodiazepines,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Benzodiazepines [Presence] in Meconium by Screen method,,2.07,FALSE,Benzodiazepines:PrThr:Pt:Meconium:Ord:Screen
+27026-4,Benzoylecgonine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Benzoylecgonine [Mass/mass] in Meconium,ng/g,2,FALSE,Benzoylecgonine:MCnt:Pt:Meconium:Qn:
+8187-7,Benzoylecgonine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Benzoylecgonine [Presence] in Meconium,,1.0h(2),FALSE,Benzoylecgonine:PrThr:Pt:Meconium:Ord:
+32797-3,Drugs identified,Prid,Pt,Meconium,Nom,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Drugs identified in Meconium by Screen method,,2.09,FALSE,Drugs identified:Prid:Pt:Meconium:Nom:Screen
+58738-6,Drugs of abuse,Imp,Pt,Meconium,Nom,,DRUG/TOX,2.73,ACTIVE,1,Observation,,,Drugs of abuse [Interpretation] in Meconium,,2.32,FALSE,Drugs of abuse:Imp:Pt:Meconium:Nom:
+49046-6,Drugs of abuse panel,-,Pt,Meconium,-,,PANEL.DRUG/TOX,2.73,ACTIVE,1,Order,,,Drugs of abuse panel - Meconium,,2.21,TRUE,Drugs of abuse panel:-:Pt:Meconium:-:
+26912-6,Hydroxytriazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Hydroxytriazolam [Mass/mass] in Meconium,ng/g,2,FALSE,Hydroxytriazolam:MCnt:Pt:Meconium:Qn:
+11025-4,Methadone,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Methadone [Mass/volume] in Meconium,ng/mL,1.0j-a,FALSE,Methadone:MCnc:Pt:Meconium:Qn:
+29159-1,Methadone,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methadone [Mass/mass] in Meconium,ng/g,2.03,FALSE,Methadone:MCnt:Pt:Meconium:Qn:
+43595-8,Methadone,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Methadone [Presence] in Meconium,,2.17,FALSE,Methadone:PrThr:Pt:Meconium:Ord:
+8213-1,Opiates,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Opiates [Mass/volume] in Meconium,ng/mL,1.0h(2),FALSE,Opiates:MCnc:Pt:Meconium:Qn:
+29158-3,Opiates,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Opiates [Mass/mass] in Meconium,ng/g,2.03,FALSE,Opiates:MCnt:Pt:Meconium:Qn:
+8214-9,Opiates,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Opiates [Presence] in Meconium,,1.0h(2),FALSE,Opiates:PrThr:Pt:Meconium:Ord:
+8231-3,Phencyclidine,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Phencyclidine [Mass/volume] in Meconium,ng/mL,1.0h(2),FALSE,Phencyclidine:MCnc:Pt:Meconium:Qn:
+26859-9,Phencyclidine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Phencyclidine [Mass/mass] in Meconium,ng/g,2,FALSE,Phencyclidine:MCnt:Pt:Meconium:Qn:
+26714-6,Phenylpropanolamine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Phenylpropanolamine [Mass/mass] in Meconium,ng/g,2,FALSE,Phenylpropanolamine:MCnt:Pt:Meconium:Qn:
+8166-1,Tetrahydrocannabinol,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,DISCOURAGED,1,Both,,ng/mL,Tetrahydrocannabinol [Mass/volume] in Meconium,ng/mL,1.0h(2),FALSE,Tetrahydrocannabinol:MCnc:Pt:Meconium:Qn:
+40901-1,3-Hydroxybenzoylecgonine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,3-Hydroxybenzoylecgonine [Mass/mass] in Meconium,ng/g,2.15,FALSE,3-Hydroxybenzoylecgonine:MCnt:Pt:Meconium:Qn:
+59610-6,ALPRAZolam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,ALPRAZolam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,ALPRAZolam:MCnt:Pt:Meconium:Qn:Confirm
+73730-4,Lysergate diethylamide,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Lysergate diethylamide [Presence] in Meconium,,2.44,FALSE,Lysergate diethylamide:PrThr:Pt:Meconium:Ord:
+30108-5,Ecgonine methyl ester,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Ecgonine methyl ester [Mass/mass] in Meconium,ng/g,2.04,FALSE,Ecgonine methyl ester:MCnt:Pt:Meconium:Qn:
+76349-0,clonazePAM,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.52,ACTIVE,1,Both,,ng/g,clonazePAM [Mass/mass] in Meconium by Confirmatory method,ng/g,2.52,FALSE,clonazePAM:MCnt:Pt:Meconium:Qn:Confirm
+69011-5,Cocaethylene,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Cocaethylene [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Cocaethylene:MCnt:Pt:Meconium:Qn:Confirm
+26956-3,Cocaine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Cocaine [Mass/mass] in Meconium,ng/g,2,FALSE,Cocaine:MCnt:Pt:Meconium:Qn:
+40527-4,Cocaine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.73,ACTIVE,1,Both,,,Cocaine [Presence] in Meconium,,2.15,FALSE,Cocaine:PrThr:Pt:Meconium:Ord:
+34578-5,Barbiturates,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Barbiturates [Presence] in Meconium by Screen method,,2.1,FALSE,Barbiturates:PrThr:Pt:Meconium:Ord:Screen
+38441-2,Benzodiazepines,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Benzodiazepines [Presence] in Meconium by Confirmatory method,,2.14,FALSE,Benzodiazepines:PrThr:Pt:Meconium:Ord:Confirm
+8186-9,Benzoylecgonine,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.52,DISCOURAGED,1,Both,,ng/mL,Benzoylecgonine [Mass/volume] in Meconium,ng/mL,1.0h(2),FALSE,Benzoylecgonine:MCnc:Pt:Meconium:Qn:
+64126-6,Drugs identified,Prid,Pt,Meconium,Nom,Confirm,DRUG/TOX,2.38,ACTIVE,1,Observation,,,Drugs identified in Meconium by Confirmatory method,,2.36,FALSE,Drugs identified:Prid:Pt:Meconium:Nom:Confirm
+75647-8,Meperidine,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Meperidine [Presence] in Meconium,,2.5,FALSE,Meperidine:PrThr:Pt:Meconium:Ord:
+59749-2,Temazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Temazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Temazepam:MCnt:Pt:Meconium:Qn:Confirm
+93719-3,traMADol,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.67,ACTIVE,1,Observation,,,traMADol [Presence] in Meconium by Screen method,,2.67,FALSE,traMADol:PrThr:Pt:Meconium:Ord:Screen
+26910-0,Alpha hydroxyalprazolam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Alpha hydroxyalprazolam [Mass/mass] in Meconium,ng/g,2,FALSE,Alpha hydroxyalprazolam:MCnt:Pt:Meconium:Qn:
+8146-3,Amphetamines,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Amphetamines [Presence] in Meconium by Screen method,,1.0h(2),FALSE,Amphetamines:PrThr:Pt:Meconium:Ord:Screen
+69021-4,Amphetamines panel,-,Pt,Meconium,-,Confirm,PANEL.DRUG/TOX,2.7,ACTIVE,1,Order,,,Amphetamines panel - Meconium by Confirmatory method,,2.38,TRUE,Amphetamines panel:-:Pt:Meconium:-:Confirm
+31080-5,Cannabinoids,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Cannabinoids [Presence] in Meconium by Screen method,,2.07,FALSE,Cannabinoids:PrThr:Pt:Meconium:Ord:Screen
+38439-6,Barbiturates,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Barbiturates [Presence] in Meconium by Confirmatory method,,2.14,FALSE,Barbiturates:PrThr:Pt:Meconium:Ord:Confirm
+59621-3,chlordiazePOXIDE,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,chlordiazePOXIDE [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,chlordiazePOXIDE:MCnt:Pt:Meconium:Qn:Confirm
+73996-1,oxyCODONE,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,oxyCODONE [Presence] in Meconium by Screen method,,2.46,FALSE,oxyCODONE:PrThr:Pt:Meconium:Ord:Screen
+8189-3,Benzoylecgonine,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Benzoylecgonine [Presence] in Meconium by Screen method,,1.0h(2),FALSE,Benzoylecgonine:PrThr:Pt:Meconium:Ord:Screen
+59686-6,Hydroxyethylflurazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Hydroxyethylflurazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Hydroxyethylflurazepam:MCnt:Pt:Meconium:Qn:Confirm
+69022-2,Methamphetamine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methamphetamine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Methamphetamine:MCnt:Pt:Meconium:Qn:Confirm
+69024-8,Methylenedioxyethylamphetamine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methylenedioxyethylamphetamine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Methylenedioxyethylamphetamine:MCnt:Pt:Meconium:Qn:Confirm
+69025-5,Methylenedioxymethamphetamine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methylenedioxymethamphetamine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Methylenedioxymethamphetamine:MCnt:Pt:Meconium:Qn:Confirm
+59650-2,N-desalkylflurazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,N-desalkylflurazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,N-desalkylflurazepam:MCnt:Pt:Meconium:Qn:Confirm
+26891-2,Nordiazepam,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Nordiazepam [Mass/mass] in Meconium,ng/g,2,FALSE,Nordiazepam:MCnt:Pt:Meconium:Qn:
+20481-8,Opiates,ACnc,Pt,Meconium,Ord,Screen,DRUG/TOX,2.36,DEPRECATED,1,,,,Deprecated Opiates [Presence] in Meconium by Screen method,,1.0m,FALSE,Opiates:ACnc:Pt:Meconium:Ord:Screen
+26744-3,Opiates,MCnt,Pt,Meconium,Qn,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Opiates [Mass/mass] in Meconium by Screen method,ng/g,2,FALSE,Opiates:MCnt:Pt:Meconium:Qn:Screen
+8216-4,Opiates,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Opiates [Presence] in Meconium by Screen method,,1.0h(2),FALSE,Opiates:PrThr:Pt:Meconium:Ord:Screen
+69026-3,Opiates panel,-,Pt,Meconium,-,Confirm,PANEL.DRUG/TOX,2.7,ACTIVE,1,Order,,,Opiates panel - Meconium by Confirmatory method,,2.38,TRUE,Opiates panel:-:Pt:Meconium:-:Confirm
+26829-2,Phencyclidine,MCnt,Pt,Meconium,Qn,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Phencyclidine [Mass/mass] in Meconium by Screen method,ng/g,2,FALSE,Phencyclidine:MCnt:Pt:Meconium:Qn:Screen
+8234-7,Phencyclidine,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Phencyclidine [Presence] in Meconium by Screen method,,1.0h(2),FALSE,Phencyclidine:PrThr:Pt:Meconium:Ord:Screen
+11027-0,Propoxyphene,MCnc,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/mL,Propoxyphene [Mass/volume] in Meconium,ng/mL,1.0j-a,FALSE,Propoxyphene:MCnc:Pt:Meconium:Qn:
+27067-8,Propoxyphene,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ug/g,Propoxyphene [Mass/mass] in Meconium,ug/g,2,FALSE,Propoxyphene:MCnt:Pt:Meconium:Qn:
+8168-7,Tetrahydrocannabinol,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Tetrahydrocannabinol [Presence] in Meconium by Confirmatory method,,1.0h(2),FALSE,Tetrahydrocannabinol:PrThr:Pt:Meconium:Ord:Confirm
+8169-5,Tetrahydrocannabinol,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Tetrahydrocannabinol [Presence] in Meconium by Screen method,,1.0h(2),FALSE,Tetrahydrocannabinol:PrThr:Pt:Meconium:Ord:Screen
+93720-1,traMADol,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.67,ACTIVE,1,Both,,ng/g,traMADol [Mass/mass] in Meconium by Confirmatory method,ng/g,2.67,FALSE,traMADol:MCnt:Pt:Meconium:Qn:Confirm
+29345-6,6-Monoacetylmorphine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,6-Monoacetylmorphine (6-MAM) [Mass/mass] in Meconium,ng/g,2.03,FALSE,6-Monoacetylmorphine:MCnt:Pt:Meconium:Qn:
+43934-9,Amphetamines,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Amphetamines [Mass/mass] in Meconium by Confirmatory method,ng/g,2.17,FALSE,Amphetamines:MCnt:Pt:Meconium:Qn:Confirm
+8145-5,Amphetamines,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Amphetamines [Presence] in Meconium by Confirmatory method,,1.0h(2),FALSE,Amphetamines:PrThr:Pt:Meconium:Ord:Confirm
+18278-2,Hemoglobin F,PrThr,Pt,Meconium,Ord,Apt-Downey,HEM/BC,2.56,ACTIVE,1,Both,,,Hemoglobin F [Presence] in Meconium by Apt-Downey method,,1.0l,FALSE,Hemoglobin F:PrThr:Pt:Meconium:Ord:Apt-Downey
+33282-5,Cannabinoids,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Cannabinoids [Mass/mass] in Meconium by Confirmatory method,ng/g,2.09,FALSE,Cannabinoids:MCnt:Pt:Meconium:Qn:Confirm
+50406-8,Cannabinoids,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Cannabinoids [Presence] in Meconium by Confirmatory method,,2.22,FALSE,Cannabinoids:PrThr:Pt:Meconium:Ord:Confirm
+94399-3,Ethyl glucuronide,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.68,ACTIVE,1,Observation,,ng/g,Ethyl glucuronide [Mass/mass] in Meconium by Confirmatory method,ng/g,2.68,FALSE,Ethyl glucuronide:MCnt:Pt:Meconium:Qn:Confirm
+59631-2,cloBAZam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,cloBAZam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,cloBAZam:MCnt:Pt:Meconium:Qn:Confirm
+69008-1,Cocaine panel,-,Pt,Meconium,-,Confirm,PANEL.DRUG/TOX,2.7,ACTIVE,1,Order,,,Cocaine panel - Meconium by Confirmatory method,,2.38,TRUE,Cocaine panel:-:Pt:Meconium:-:Confirm
+68542-0,Codeine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Codeine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Codeine:MCnt:Pt:Meconium:Qn:Confirm
+69027-1,Morphine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Morphine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Morphine:MCnt:Pt:Meconium:Qn:Confirm
+59729-4,Oxazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Oxazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Oxazepam:MCnt:Pt:Meconium:Qn:Confirm
+68543-8,oxyCODONE,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,oxyCODONE [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,oxyCODONE:MCnt:Pt:Meconium:Qn:Confirm
+69028-9,oxyMORphone,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,oxyMORphone [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,oxyMORphone:MCnt:Pt:Meconium:Qn:Confirm
+20480-0,Benzoylecgonine,ACnc,Pt,Meconium,Ord,Screen,DRUG/TOX,2.36,DEPRECATED,1,,,,Deprecated Benzoylecgonine [Presence] in Meconium by Screen method,,1.0m,FALSE,Benzoylecgonine:ACnc:Pt:Meconium:Ord:Screen
+8188-5,Benzoylecgonine,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,,Benzoylecgonine [Presence] in Meconium by Confirmatory method,,1.0h(2),FALSE,Benzoylecgonine:PrThr:Pt:Meconium:Ord:Confirm
+59658-5,diazePAM,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,diazePAM [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,diazePAM:MCnt:Pt:Meconium:Qn:Confirm
+68544-6,HYDROcodone,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,HYDROcodone [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,HYDROcodone:MCnt:Pt:Meconium:Qn:Confirm
+68541-2,HYDROmorphone,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,HYDROmorphone [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,HYDROmorphone:MCnt:Pt:Meconium:Qn:Confirm
+91030-7,Methadone+Metabolite,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.67,ACTIVE,1,Both,,,Methadone+Metabolite [Presence] in Meconium by Screen method,,2.65,FALSE,Methadone+Metabolite:PrThr:Pt:Meconium:Ord:Screen
+91031-5,Methamphetamine+Methylenedioxymethamphetamine,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.67,ACTIVE,1,Both,,,Methamphetamine+Methylenedioxymethamphetamine [Presence] in Meconium by Screen method,,2.65,FALSE,Methamphetamine+Methylenedioxymethamphetamine:PrThr:Pt:Meconium:Ord:Screen
+69023-0,Methylenedioxyamphetamine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Methylenedioxyamphetamine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Methylenedioxyamphetamine:MCnt:Pt:Meconium:Qn:Confirm
+93722-7,N-Nortramadol,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.67,ACTIVE,1,Observation,,ng/g,N-nortramadol [Mass/mass] in Meconium by Confirmatory method,ng/g,2.67,FALSE,N-Nortramadol:MCnt:Pt:Meconium:Qn:Confirm
+75379-8,Norbuprenorphine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.5,ACTIVE,1,Both,,ng/mg,Norbuprenorphine [Mass/mass] in Meconium by Confirmatory method,ng/mg,2.5,FALSE,Norbuprenorphine:MCnt:Pt:Meconium:Qn:Confirm
+8215-6,Opiates,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,,Opiates [Presence] in Meconium by Confirmatory method,,1.0h(2),FALSE,Opiates:PrThr:Pt:Meconium:Ord:Confirm
+50620-4,Opiates cutoff,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Opiates cutoff [Mass/mass] in Meconium for Confirmatory method,ng/g,2.22,FALSE,Opiates cutoff:MCnt:Pt:Meconium:Qn:Confirm
+92816-8,Phencyclidine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.66,ACTIVE,1,Both,,ng/g,Phencyclidine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.66,FALSE,Phencyclidine:MCnt:Pt:Meconium:Qn:Confirm
+8233-9,Phencyclidine,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Phencyclidine [Presence] in Meconium by Confirmatory method,,1.0h(2),FALSE,Phencyclidine:PrThr:Pt:Meconium:Ord:Confirm
+26711-2,Phendimetrazine,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Phendimetrazine [Mass/mass] in Meconium,ng/g,2,FALSE,Phendimetrazine:MCnt:Pt:Meconium:Qn:
+69012-3,3-Hydroxybenzoylecgonine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,3-Hydroxybenzoylecgonine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,3-Hydroxybenzoylecgonine:MCnt:Pt:Meconium:Qn:Confirm
+73563-9,7-Aminoclonazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.44,ACTIVE,1,Both,,ng/g,7-Aminoclonazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.44,FALSE,7-Aminoclonazepam:MCnt:Pt:Meconium:Qn:Confirm
+77205-3,Buprenorphine,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.73,ACTIVE,1,Both,,,Buprenorphine [Presence] in Meconium by Screen method,,2.52,FALSE,Buprenorphine:PrThr:Pt:Meconium:Ord:Screen
+94398-5,Ethyl sulfate,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.68,ACTIVE,1,Observation,,ng/g,Ethyl sulfate [Mass/mass] in Meconium by Confirmatory method,ng/g,2.68,FALSE,Ethyl sulfate:MCnt:Pt:Meconium:Qn:Confirm
+69009-9,Cocaine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Cocaine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Cocaine:MCnt:Pt:Meconium:Qn:Confirm
+41037-3,Cocaine,PrThr,Pt,Meconium,Ord,Confirm,DRUG/TOX,2.56,ACTIVE,1,Both,,,Cocaine [Presence] in Meconium by Confirmatory method,,2.15,FALSE,Cocaine:PrThr:Pt:Meconium:Ord:Confirm
+91032-3,oxyCODONE+Oxymorphone,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.67,ACTIVE,1,Both,,,oxyCODONE+oxyMORphone [Presence] in Meconium by Screen method,,2.65,FALSE,oxyCODONE+Oxymorphone:PrThr:Pt:Meconium:Ord:Screen
+69010-7,Benzoylecgonine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Benzoylecgonine [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Benzoylecgonine:MCnt:Pt:Meconium:Qn:Confirm
+59694-0,Hydroxytriazolam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Hydroxytriazolam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Hydroxytriazolam:MCnt:Pt:Meconium:Qn:Confirm
+73567-0,Propoxyphene,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.56,ACTIVE,1,Both,,,Propoxyphene [Presence] in Meconium by Screen method,,2.44,FALSE,Propoxyphene:PrThr:Pt:Meconium:Ord:Screen
+73562-1,"2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine",MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,"2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine (EDDP) [Mass/mass] in Meconium by Confirmatory method",ng/g,2.44,FALSE,"2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine:MCnt:Pt:Meconium:Qn:Confirm"
+59603-1,Alpha hydroxyalprazolam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Alpha hydroxyalprazolam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Alpha hydroxyalprazolam:MCnt:Pt:Meconium:Qn:Confirm
+73564-7,Alpha hydroxytriazolam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.44,ACTIVE,1,Both,,ng/g,Alpha hydroxytriazolam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.44,FALSE,Alpha hydroxytriazolam:MCnt:Pt:Meconium:Qn:Confirm
+75367-3,Buprenorphine,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.5,ACTIVE,1,Both,,ng/mg,Buprenorphine [Mass/mass] in Meconium by Confirmatory method,ng/mg,2.5,FALSE,Buprenorphine:MCnt:Pt:Meconium:Qn:Confirm
+59720-3,Nordiazepam,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.7,ACTIVE,1,Both,,ng/g,Nordiazepam [Mass/mass] in Meconium by Confirmatory method,ng/g,2.32,FALSE,Nordiazepam:MCnt:Pt:Meconium:Qn:Confirm
+93721-9,O-Nortramadol,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.67,ACTIVE,1,Observation,,ng/g,O-nortramadol [Mass/mass] in Meconium by Confirmatory method,ng/g,2.67,FALSE,O-Nortramadol:MCnt:Pt:Meconium:Qn:Confirm
+31136-5,Carboxy tetrahydrocannabinol,MCnt,Pt,Meconium,Qn,,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Carboxy tetrahydrocannabinol [Mass/mass] in Meconium,ng/g,2.07,FALSE,Carboxy tetrahydrocannabinol:MCnt:Pt:Meconium:Qn:
+57924-3,Carboxy tetrahydrocannabinol,PrThr,Pt,Meconium,Ord,,DRUG/TOX,2.56,ACTIVE,1,Both,,,Carboxy tetrahydrocannabinol [Presence] in Meconium,,2.29,FALSE,Carboxy tetrahydrocannabinol:PrThr:Pt:Meconium:Ord:
+91029-9,Cocaine+Benzoylecgonine,PrThr,Pt,Meconium,Ord,Screen,DRUG/TOX,2.67,ACTIVE,1,Both,,,Cocaine+Benzoylecgonine [Presence] in Meconium by Screen method,,2.65,FALSE,Cocaine+Benzoylecgonine:PrThr:Pt:Meconium:Ord:Screen
+69007-3,Carboxy tetrahydrocannabinol,MCnt,Pt,Meconium,Qn,Confirm,DRUG/TOX,2.73,ACTIVE,1,Both,,ng/g,Carboxy tetrahydrocannabinol [Mass/mass] in Meconium by Confirmatory method,ng/g,2.38,FALSE,Carboxy tetrahydrocannabinol:MCnt:Pt:Meconium:Qn:Confirm
+15406-2,Methamphetamine,MCnc,Pt,Meconium,Ord,,DRUG/TOX,2.36,DEPRECATED,1,,,,Deprecated Methamphetamine,,1.0k,FALSE,Methamphetamine:MCnc:Pt:Meconium:Ord:
+15365-0,Codeine,MCnc,Pt,Meconium,Ord,,DRUG/TOX,2.36,DEPRECATED,1,,,,Deprecated Codeine,,1.0k,FALSE,Codeine:MCnc:Pt:Meconium:Ord:
+15371-8,Morphine,MCnc,Pt,Meconium,Ord,,DRUG/TOX,2.36,DEPRECATED,1,,,,Deprecated Morphine,,1.0k,FALSE,Morphine:MCnc:Pt:Meconium:Ord:
